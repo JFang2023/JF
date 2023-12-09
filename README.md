@@ -1,6 +1,6 @@
 # JF
 Machine Learning
-  - End to End Project
+  - End-to-End Project
     + Preprocessing Data with ScikitLearn
   - Neural Network
     + Basic Classification
@@ -15,3 +15,21 @@ Machine Learning
     
 Big Data Processing & Analytics
   - MapReduce on Ubuntu
+
+Cloud Computing
+ - Apache Kafka + Spark Streaming + PySpark
+ - Machine Learning
+   - Movie Recommendation System
+     + PySpark Collaborative Filtering with ALS
+     + RDD-based API
+ - MapReduce
+   + Full Inverted Index
+   + Pi
+ - PySpark
+   + PySpark on Kubernetes
+   + Pi
+ - Spark
+   + PageRank
+ - Javascript
+   - Node.js
+     + Send JSON-format student data via NGRok
