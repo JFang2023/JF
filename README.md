@@ -34,3 +34,8 @@ Machine Learning
     + KNN +Confusion Matrix + Iris Data set + Colab
     + Linear Regression using Normal Equation
   + Text Classification
+
+Software Quality Assurance and Test Automation
+  - Selenium
+    - Functional Testing
+      + Personal Website Project
